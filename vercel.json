@@ -5,6 +5,7 @@
       "headers": [
         {
           "key": "Cache-Control",
+          vc-domain-verify=jhafreetv.qzz.io,5ed96ecfa97db0260321
           "value": "public, max-age=31536000, immutable"
         }
       ]
